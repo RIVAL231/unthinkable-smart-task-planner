@@ -6,7 +6,7 @@ An AI-powered task planning application that transforms your goals into actionab
 
 **🚀 [Try it now: https://smart-task-planner-client.vercel.app/](https://smart-task-planner-client.vercel.app/)**
 
-![Smart Task Planner](https://img.shields.io/badge/React-19.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-18+-green) ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue) ![Gemini](https://img.shields.io/badge/Gemini-1.5%20Pro-orange)
+![Smart Task Planner](https://img.shields.io/badge/React-19.1-blue) ![Node.js](https://img.shields.io/badge/Node.js-18+-green) ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue) ![Gemini](https://img.shields.io/badge/Gemini-2.5%20flash-orange)
 
 ### Deployed URLs
 - **Frontend:** https://smart-task-planner-client.vercel.app/
