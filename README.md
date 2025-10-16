@@ -353,5 +353,4 @@ For questions or feedback, please open an issue on GitHub.
 
 ---
 
-Built with ❤️ using React, TypeScript, Node.js, and Google Gemini#   u n t h i n k a b l e - s m a r t - t a s k - p l a n n e r  
- 
+Built with ❤️ using React, TypeScript, Node.js, and Google Gemini
